@@ -10,5 +10,5 @@ def load_config():
         
 
         "llm_provider": os.getenv("LLM_PROVIDER", "groq"),
-        "model_name": os.getenv("MODEL_NAME","gemma2-9b-it")
+        "model_name": os.getenv("MODEL_NAME","llama-3.1-8b-instant")
     }
