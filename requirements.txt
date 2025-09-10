@@ -8,3 +8,8 @@ numpy
 requests
 python-dotenv
 groq
+PyPDF2
+python-docx
+sentence-transformers
+transformers
+faiss-cpu
