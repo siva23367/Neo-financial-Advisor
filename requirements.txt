@@ -1,0 +1,10 @@
+streamlit 
+langchain-openai 
+langchain-groq 
+langchain-google-genai 
+langchain-core
+scikit-learn
+numpy
+requests
+python-dotenv
+groq
