@@ -99,7 +99,7 @@ Create a `.env` file in the project root:
 
 ```env
 LLM_PROVIDER=groq
-MODEL_NAME=gemma2-9b-it
+MODEL_NAME=llama-3.1-8b-instant
 GROQ_API_KEY=your_groq_api_key
 ```
 
